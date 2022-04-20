@@ -1,0 +1,12 @@
+D:\StudentMgt\StudentMgt\StudentMgt\bin\Debug\StudentMgt.exe.config
+D:\StudentMgt\StudentMgt\StudentMgt\bin\Debug\StudentMgt.exe
+D:\StudentMgt\StudentMgt\StudentMgt\bin\Debug\StudentMgt.pdb
+D:\StudentMgt\StudentMgt\StudentMgt\bin\Debug\StudentMgt.xml
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.vbproj.AssemblyReference.cache
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.frmStudent.resources
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.Resources.resources
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.vbproj.GenerateResource.cache
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.vbproj.CoreCompileInputs.cache
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.exe
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.xml
+D:\StudentMgt\StudentMgt\StudentMgt\obj\Debug\StudentMgt.pdb
